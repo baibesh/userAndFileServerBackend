@@ -1,14 +1,15 @@
 # userAndFileServerBackend
-git clone, \n
-npm install, \n
-edit config/config.json , \n
+git clone =>
+npm install =>
+edit config/config.json file
+
 
 "development": { \n
-    "username": "<username>", \n
-    "password": "<password>", \n
-    "database": "<db name>", \n
-    "host": "127.0.0.1", \n
-    "dialect": "mysql" \n
-} \n
+    "username": "<username>",
+    "password": "<password>",
+    "database": "<db name>",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+}
 
-npm run dev \n
+=> npm run dev
